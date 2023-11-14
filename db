@@ -1,0 +1,20 @@
+{ "listaPrecio":
+[
+ {
+  "ID_LISTA": "001",
+  "DETALLE": "LIBRE"
+ },
+ {
+  "ID_LISTA": "002",
+  "DETALLE": "LISTA 1"
+ },
+ {
+  "ID_LISTA": "003",
+  "DETALLE": "LISTA 2"
+ },
+ {
+  "ID_LISTA": "004",
+  "DETALLE": "LISTA 3"
+ }
+]
+}
